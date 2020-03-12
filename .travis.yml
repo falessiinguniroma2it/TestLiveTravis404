@@ -6,7 +6,7 @@ addons:
   sonarcloud:
     organization: falessiinguniroma2it
     token:
-      secure: f08ab3fd9be81470333bf4f8cf7b1e49c6243cd7
+      secure: 8d3303638d13ba727a93b599be5b947ec8f7d945
 script:
 - ant build
 - sonar-scanner
